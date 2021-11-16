@@ -4,4 +4,5 @@
 4. git log
 5. git log --oneline
 6. git push [repositories_link] [branch_name]
-7. 
+7. git reset --hard  (return files to start position)
+8. 
